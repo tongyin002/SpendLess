@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="liquidlnf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../how2j-lib/liquidlnf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../how2j-lib/mysql-connector-java-8.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../how2j-lib/chart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../how2j-lib/swingx-core-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
